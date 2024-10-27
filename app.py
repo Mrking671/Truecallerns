@@ -9,7 +9,7 @@ app = Flask(__name__)
 # Your Truecaller API Key
 TRUECALLER_API_KEY = '5BO640155545a4dc345129ce8b3de7cbb3093'
 # Your Telegram Bot Token
-TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'
+TELEGRAM_BOT_TOKEN = '7065470365:AAH84EEwdlbq2PtGN3xazmFjtjG_KxyHlPY'
 # Telegram Bot Instance
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
 
