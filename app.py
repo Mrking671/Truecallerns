@@ -60,7 +60,7 @@ def webhook():
     return 'ok', 200
 
 def set_webhook():
-    webhook_url = f'https://<your-render-app-name>.onrender.com/webhook'
+    webhook_url = f'https://truecallerns.onrender.com/webhook'
     bot.setWebhook(webhook_url)
 
 if __name__ == '__main__':
